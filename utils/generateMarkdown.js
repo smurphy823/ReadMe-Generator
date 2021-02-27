@@ -40,4 +40,18 @@ ${renderLicenseSection(data.license)}
 `;
 }
 
+function generateReadMe(answers) {
+  return `# ${answers.title}
+
+  ## Description
+   ${answers.description}
+
+  ## Table of Contents
+   [description](#description)
+
+
+
+  `;
+}
 module.exports = generateMarkdown;
+module.exports = generateReadMe;
