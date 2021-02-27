@@ -13,7 +13,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "github",
+        name: "username",
         message: "what is your github username?"
     },
     {
@@ -34,12 +34,12 @@ const questions = [
     },
     {
         type: "input",
-        name: "install",
-        message: "How do install dependencies?"
+        name: "installation",
+        message: "How to install dependencies?"
     },
     {
         type: "input",
-        name: "test",
+        name: "tests",
         message: "what command should be run for testing?"
     },
     {
@@ -49,7 +49,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "contribute",
+        name: "contributing",
         message: "what do I need to know about contributing to the repo?"
     },
 ];
