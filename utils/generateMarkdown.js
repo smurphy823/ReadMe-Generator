@@ -75,7 +75,7 @@ function generateReadMe(answers) {
   ## Questions
  
 
-  Find me on GitHub: ${answers.username} 
+  Find me on GitHub: ${answers.username}
 
   Email me with any questions: ${answers.email}
 

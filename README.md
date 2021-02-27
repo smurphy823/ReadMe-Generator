@@ -1,7 +1,7 @@
-# readme generator
+# ReadME Generator
 
   ## Description
-   asjgfaskbfjlads
+   This project will allow any coder/programmer to successfully create or generate a readme file.
 
   ## Table of Contents
    [Description](#description)
@@ -13,19 +13,18 @@
    [Questions](#questions)
    [username](#username)
 
-   <br />
 
   ## Installation
   npm i  
 
   ## Usage
-  asfvoausdflasd
+  You would need npm installed along with all dependencies
 
   ## License
   MIT
 
   ## Contributing
-  asdfsgfciaus
+  N/A
 
   ## Tests
   npm test
@@ -33,7 +32,7 @@
   ## Questions
  
 
-  Find me on GitHub: github.com/smurphy823 
+  Find me on GitHub: github.com/smurphy823
 
   Email me with any questions: stephaniemurphy588@yahoo.com
 
