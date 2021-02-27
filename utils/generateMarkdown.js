@@ -47,8 +47,15 @@ function generateReadMe(answers) {
    ${answers.description}
 
   ## Table of Contents
-   [description](#description)
+   [Description](#description)
+   [Installation](#installation)
+   [Usage](#usage)
+   [License](#license)
+   [Contributing](#contributing)
+   [Tests](#tests)
 
+  ## installation
+  ${answers.installation}  
 
 
   `;
